@@ -1,6 +1,6 @@
 # -8thgradeweb
-<ul>
 <h1>This is a collection of my projects from 8th grade web</h1>
+<ul>
   <li><a href="html_demo">HTML Demo</a></li>
   <li><a href="css_demo">CSS Demo</a></li>
   <li><a href="midterm">Midterm Demo</a></li>
